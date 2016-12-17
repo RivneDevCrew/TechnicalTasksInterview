@@ -1,0 +1,6 @@
+c:\users\dielast\documents\visual studio 2015\Projects\ServeTestTask\ServeTestTask\bin\Debug\ServeTestTask.exe.config
+c:\users\dielast\documents\visual studio 2015\Projects\ServeTestTask\ServeTestTask\bin\Debug\ServeTestTask.exe
+c:\users\dielast\documents\visual studio 2015\Projects\ServeTestTask\ServeTestTask\bin\Debug\ServeTestTask.pdb
+c:\users\dielast\documents\visual studio 2015\Projects\ServeTestTask\ServeTestTask\obj\Debug\ServeTestTask.csprojResolveAssemblyReference.cache
+c:\users\dielast\documents\visual studio 2015\Projects\ServeTestTask\ServeTestTask\obj\Debug\ServeTestTask.exe
+c:\users\dielast\documents\visual studio 2015\Projects\ServeTestTask\ServeTestTask\obj\Debug\ServeTestTask.pdb
