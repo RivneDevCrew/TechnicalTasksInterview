@@ -1,0 +1,33 @@
+﻿Build started 28.05.2015 18:02:04.
+     1>Project "C:\Users\zhluktenko\OneDrive\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\zhluktenko\onedrive\visual studio 2012\projects\consoleapplication2\consoleapplication2\source.cpp(41): warning C4244: 'initializing' : conversion from 'clock_t' to 'float', possible loss of data
+     1>c:\users\zhluktenko\onedrive\visual studio 2012\projects\consoleapplication2\consoleapplication2\source.cpp(54): warning C4244: 'argument' : conversion from '__int64' to 'const int', possible loss of data
+     1>c:\users\zhluktenko\onedrive\visual studio 2012\projects\consoleapplication2\consoleapplication2\source.cpp(64): warning C4244: 'return' : conversion from '__int64' to 'int', possible loss of data
+     1>c:\program files (x86)\microsoft visual studio 11.0\vc\include\utility(138): warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
+                 c:\users\zhluktenko\onedrive\visual studio 2012\projects\consoleapplication2\consoleapplication2\source.cpp(56) : see reference to function template instantiation 'std::pair<_Ty1,_Ty2>::pair<__int64&,unsigned int>(_Other1,_Other2 &&,void **)' being compiled
+                 with
+                 [
+                     _Ty1=int,
+                     _Ty2=int,
+                     _Other1=__int64 &,
+                     _Other2=unsigned int
+                 ]
+                 c:\users\zhluktenko\onedrive\visual studio 2012\projects\consoleapplication2\consoleapplication2\source.cpp(56) : see reference to function template instantiation 'std::pair<_Ty1,_Ty2>::pair<__int64&,unsigned int>(_Other1,_Other2 &&,void **)' being compiled
+                 with
+                 [
+                     _Ty1=int,
+                     _Ty2=int,
+                     _Other1=__int64 &,
+                     _Other2=unsigned int
+                 ]
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\zhluktenko\OneDrive\Visual Studio 2012\Projects\ConsoleApplication2\Debug\2Multiplyers.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\zhluktenko\OneDrive\Visual Studio 2012\Projects\ConsoleApplication2\Debug\2Multiplyers.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\zhluktenko\OneDrive\Visual Studio 2012\Projects\ConsoleApplication2\Debug\2Multiplyers.lib" /MACHINE:X86 Debug\Source.obj
+         ConsoleApplication2.vcxproj -> C:\Users\zhluktenko\OneDrive\Visual Studio 2012\Projects\ConsoleApplication2\Debug\2Multiplyers.exe
+     1>Done Building Project "C:\Users\zhluktenko\OneDrive\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.79
