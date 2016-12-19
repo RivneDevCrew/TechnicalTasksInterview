@@ -1,0 +1,29 @@
+﻿<div>
+    <h1>All Users</h1>
+    <div ng-controller="UserAddController">
+        <form ng-submit="addUser()">
+            <div class="form-group">
+                <input name="name" type="text" class="form-control" placeholder="Enter Pet Owner's Name" ng-model="name" />
+                <button type="submit" class="btn btn-primary">Add</button>
+            </div>
+        </form>
+    </div>
+    <hr />
+    <h5>Total count: {{Users.length}}</h5>
+    <table class="table table-bordered table-striped table-condensed">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Pets count</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="user in Users">
+                <td><a href="/user/{{user.Id}}">{{user.Name}}</a></td>
+                <td>{{user.PetsCount}}</td>
+                <td><button class="btn btn-danger btn-xs" ng-controller="UserDeleteController" ng-click="deleteUser(user.Id)">Delete</button></td>
+            </tr>
+        </tbody>
+    </table>
+</div>

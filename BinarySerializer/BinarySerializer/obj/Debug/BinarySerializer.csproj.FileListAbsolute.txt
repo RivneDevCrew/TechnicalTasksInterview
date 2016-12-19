@@ -1,0 +1,9 @@
+D:\nazar\Projects\BinarySerializer\BinarySerializer\bin\Debug\BinarySerializer.exe.config
+D:\nazar\Projects\BinarySerializer\BinarySerializer\obj\Debug\BinarySerializer.csprojResolveAssemblyReference.cache
+D:\nazar\Projects\BinarySerializer\BinarySerializer\obj\Debug\BinarySerializer.Form1.resources
+D:\nazar\Projects\BinarySerializer\BinarySerializer\obj\Debug\BinarySerializer.Properties.Resources.resources
+D:\nazar\Projects\BinarySerializer\BinarySerializer\obj\Debug\BinarySerializer.csproj.GenerateResource.Cache
+D:\nazar\Projects\BinarySerializer\BinarySerializer\bin\Debug\BinarySerializer.exe
+D:\nazar\Projects\BinarySerializer\BinarySerializer\bin\Debug\BinarySerializer.pdb
+D:\nazar\Projects\BinarySerializer\BinarySerializer\obj\Debug\BinarySerializer.exe
+D:\nazar\Projects\BinarySerializer\BinarySerializer\obj\Debug\BinarySerializer.pdb
